@@ -214,6 +214,6 @@ Energy should remain nearly constant over time (numerical errors may introduce t
 
 2. Run the GUI:
     ```bash
-    python sierpinski_wave_gui.py
+    python main.py
     ```
 

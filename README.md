@@ -105,9 +105,7 @@ This ensures the Laplacian approximates the continuum operator as the mesh becom
 We solve the wave equation:
 
 $
-\frac{\partial^2 u}{\partial t^2}
-=
-- L \, u
+\frac{\partial^2 u}{\partial t^2} = - L u
 $
 
 where:
